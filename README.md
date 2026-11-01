@@ -1,46 +1,70 @@
-### Hola, soy Joaquín Almanza 👋
-
-<img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1200&auto=format&fit=crop" width="100%" height="220px" style="object-fit: cover; border-radius: 8px;" alt="Coding Header"/>
-
+<h1 align="center">Hi there, I'm Joaquín Almanza 👋</h1>
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Exploring%20New%20Tech-blue?style=flat-square" alt="Status">
-  <img src="https://img.shields.io/badge/Focus-Systems%20%26%20Automation-orange?style=flat-square" alt="Focus">
-  <img src="https://img.shields.io/badge/Location-Argentina-green?style=flat-square" alt="Location">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=System+Automation+%26+Backend;Windows+CLI+Tools+%26+Optimization;Building+High-Performance+Software" alt="Typing SVG" />
 </p>
 
 ---
 
-### 💻 Stack Tecnológico & Herramientas
+### ⚡ About Me
+- 💻 Passionate about low-level system optimization, scripting, and developer tools.
+- 🛠️ Creator of **[PC-Pulse](https://github.com/Almanzajoaquin/PC-PULSE)** — A high-performance Windows optimization and gaming CLI suite.
+- 🔭 Always exploring advanced automation, hardware diagnostics, and efficient architectures.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+---
+
+### 🛠️ Tech Stack & Systems
+
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" /><br>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" style="filter: invert(1);" /><br>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="48" height="48" alt="Windows" /><br>
+      <sub><b>Windows API</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" /><br>
+      <sub><b>VS Code</b></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🚀 Featured Repository
+
+<p align="center">
+  <a href="https://github.com/Almanzajoaquin/PC-PULSE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Almanzajoaquin&repo=PC-PULSE&theme=tokyonight&show_owner=true&hide_border=true" alt="PC-Pulse Repo" />
+  </a>
 </p>
 
 ---
 
-### 🚀 Proyectos Destacados
-
-* **[PC-Pulse](https://github.com/Almanzajoaquin/PC-PULSE)** — Lightweight Windows CLI utility designed to free up standby memory, clean GPU shader caches, and optimize network latency.
-* *(Próximamente más proyectos enfocados en automatización y herramientas de utilidad).*
-
----
-
-### 📊 Estadísticas de GitHub
+### 📊 GitHub Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Almanzajoaquin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Almanzajoaquin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Almanzajoaquin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Almanzajoaquin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
 ---
 
 ### 📈 Actividad Reciente
